@@ -202,6 +202,10 @@ def html_denetle(sayfa, tum_idler):
         if m:
             hata(sayfa, f"mezuniyet öncesi unvan kullanılamaz (m.7): \"{m.group(0)}\"")
 
+    # Mezun izlenimi verilmesin: ana sayfalarda mezuniyet yılı görünür olmalı (m.7)
+    if sayfa.name == "index.html" and "2027" not in gorunen_ham:
+        hata(sayfa, "mezuniyet yılı (2027) görünür metinde yok — mezun izlenimi verilemez (m.7)")
+
     tum_idler[sayfa] = p
     return p
 

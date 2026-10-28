@@ -3,7 +3,7 @@
 Son güncelleme: 2026-10-28
 
 ## Aktif plan
-`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.6.0**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
+`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.6.1**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
 
 ## Tamamlananlar
 - 2026-10-28: `CLAUDE.md`, `IS_PLANI.md` hazırlandı; Elif'in bilgileri işlendi.
@@ -13,6 +13,7 @@ Son güncelleme: 2026-10-28
   Portre logosuz kırpıldı (önlük cebindeki "DENTAL CLINIC" logosu çıkarıldı — m.7).
   `og.jpg` ve JSON-LD Faz 6'dan öne alındı.
 - 2026-10-28: Elif'in isteğiyle git geçmişi tek kayda indirildi (`55c1744`) ve GitHub'a zorla gönderildi; eski kayıtlar (ham not alıntıları) silindi.
+- 2026-10-28: 0.6.1 — "öğrenci" ifadesi kaldırıldı (Elif'in isteği). "Mezun gibi göster" isteği yasal nedenle uygulanmadı; mezuniyet yılı görünür kalıyor (kontrol aracı denetliyor).
 - 2026-10-28: 0.6.0 — Elif 0.5.0'ı beğenmedi; seçtiği lavadental.lv diline göre koyu, sinematik yeniden tasarım. Sekmeler kaldırıldı (numaralı satırlar).
 - 2026-10-28: 0.5.0 — örnek sitelerin diline göre baştan tasarım (Tanışalım paneli, sekmeler, büyük alıntı, koyu iletişim; Didone başlık). Yeni görsel `docs/img/elif-buyuk.webp` (logosuz).
 - 2026-10-28: 0.4.1 — ortaöğretim bilgisi kaldırıldı.

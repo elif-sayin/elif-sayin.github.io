@@ -2,6 +2,11 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.6.1] - 2026-10-28
+### Değişti
+- "Öğrenci" ifadesi sitenin hiçbir yerinde kullanılmıyor; yerine "Diş Hekimliği · Trakya Üniversitesi" ve "son sınıf · mezuniyet Haziran 2027" yazıyor (Türkçe ve İngilizce).
+- Paylaşım görseli yeni koyu tasarıma göre yenilendi.
+
 ## [0.6.0] - 2026-10-28
 ### Değişti
 - Site, Elif'in seçtiği örneğe (lavadental.lv) göre yeniden tasarlandı; içerik ve renk kartelası korundu:

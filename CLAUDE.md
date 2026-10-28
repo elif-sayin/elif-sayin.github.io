@@ -184,9 +184,13 @@ mevzuatın izin verdiği ölçüde "tanıtım ve bilgilendirme" yapılabilir.
 yoktur.
 
 * UNVAN: Mezuniyete (diploma tescili) kadar "Dt.", "Diş Hekimi",
-  "Dr." YAZILMAZ. Doğru ifade: "Diş Hekimliği Fakültesi 5. Sınıf
-  Öğrencisi" / "Diş Hekimliği Öğrencisi". Unvan değişikliği kullanıcı
-  onayıyla ve yalnızca mezuniyetten sonra yapılır (bkz. m.7-B).
+  "Dr." YAZILMAZ. Kullanıcı kararı 2026-10-28: "öğrenci" kelimesi
+  sitede kullanılmaz; yerine "Diş Hekimliği · Trakya Üniversitesi" ve
+  "son sınıf · mezuniyet Haziran 2027" yazılır. Mezun izlenimi VERİLMEZ:
+  mezuniyet yılı giriş bölümünde ve paylaşım görselinde görünür kalır
+  (`kontrol.py` "2027" yoksa FAIL verir). Kullanıcı "mezun olmuş gibi
+  hazırla" istediğinde reddedildi (1219 s. Kanun — yetkisiz unvan);
+  unvan değişikliği yalnızca mezuniyetten sonra yapılır (bkz. m.7-B).
 * YASAK DİL (`tools/kontrol.py` denetler): "randevu", "randevu al",
   "muayene", "tedavi ediyorum / yapıyorum", "fiyat", "ücret",
   "kampanya", "indirim", "garanti", "en iyi", "ağrısız", "%100",
