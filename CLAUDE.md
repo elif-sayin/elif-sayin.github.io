@@ -230,17 +230,17 @@ yoktur.
 ═══════════════════════════════════════════════════════════
 
 1. Önce mobil (390 px), taban yazı ≥ 17 px, büyük dokunma alanı,
-   WCAG AA kontrast, açık/koyu tema (sistem tercihi + düğme).
+   WCAG AA kontrast; varsayılan koyu tema + düğmeyle açık tema (m.8.2).
 2. Tema (kullanıcı kararı 2026-10-28, kartela): altın #CFAA7F · mürdüm
    lacivert #413D57 · açık zemin #EFEFF4 · gri #D9D8DD. #CFAA7F açık
    zeminde METİN olarak kullanılmaz (1.9:1) — süs/zemin; altın metin
-   için #7E5F36. Tasarım dili (kullanıcı kararı 2026-10-28, örnekler:
-   drdeeshadental.com, pitta.ch, lavadental.lv — yalnız ilham, metin/görsel
-   ALINMAZ; önce/sonra vaka görselleri reklam yasağı nedeniyle ALINMAZ):
-   ortalanmış Didone başlık + italik kavis, "Tanışalım" foto/panel,
-   numaralı sekmeler (JS yoksa alt alta), büyük alıntı, [köşeli] düğme,
-   koyu iletişim bölümü. Yeni bölümler bu dile uydurulur. Diş/ağız ikonografisi abartılmaz; karikatür
-   diş, stok "gülümseme" görseli KULLANILMAZ. Renkler `:root` token.
+   için #7E5F36. Tasarım dili (kullanıcı kararı 2026-10-28): Elif'in
+   seçtiği örnek lavadental.lv — koyu sinematik zemin (#191723), Futura
+   başlık, bölünmüş giriş + kenara taşan portre + yüzen bilgi kartı,
+   özgün kontur çizgili kartlar (`docs/img/kontur.svg`), açık zeminde
+   büyük cümle, numaralı satırlar, dev altın ad yazısı. Örnekten metin,
+   görsel, logo ALINMAZ; önce/sonra vaka görseli reklam yasağı nedeniyle
+   kullanılmaz. Varsayılan tema KOYU, açık tema düğmeyle seçilir.
 3. Lighthouse mobil hedef: performans/erişilebilirlik/SEO ≥ 95.
 4. OG/Twitter kartı + `og.jpg`; WhatsApp/LinkedIn'de paylaşılınca
    düzgün görünür.

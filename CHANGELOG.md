@@ -2,6 +2,17 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.6.0] - 2026-10-28
+### Değişti
+- Site, Elif'in seçtiği örneğe (lavadental.lv) göre yeniden tasarlandı; içerik ve renk kartelası korundu:
+  - Koyu, sinematik zemin ve geometrik başlık yazı tipi (Futura).
+  - Bölünmüş giriş: solda büyük ad ve yuvarlak düğmeler, sağda kenara taşan büyük portre, üstünde bilgi kartı.
+  - Kontur çizgili kartlar (desen özgün olarak çizildi), dikey çizgili Hakkımda metni.
+  - Açık zeminli bölümde kontur kart üzerinde büyük yaklaşım cümlesi.
+  - Numaralı büyük satırlarda Eğitim, Klinik Stajlar ve Dil Yeterliliği.
+  - İletişimde yuvarlak ok düğmeleri ve altın renkli dev ad yazısı; kaydırınca yumuşakça beliren bölümler.
+- Varsayılan tema artık koyu; açık tema üstteki düğmeyle seçilebiliyor.
+
 ## [0.5.0] - 2026-10-28
 ### Değişti
 - Site, Elif'in verdiği örnek sitelerin tasarım diline göre baştan tasarlandı (içerik ve renkler korundu):

@@ -25,12 +25,12 @@ Hedef: `https://elif-sayin.github.io` adresinde, mobil öncelikli, Türkçe +
 
 ## Site haritası (v1.0.0)
 
-**Ana sayfa (`docs/index.html`, 0.5.0 düzeni — İngilizcesi `docs/en/` aynı)**
-1. **Giriş** — ortalanmış: rozet, "Elif *Sayın*" + altın kavis, tek cümle, [LinkedIn] [ İletişim ], Edirne
-2. **Tanışalım** (`#hakkimda`) — büyük portre + mürdüm panel: tanıtım, dikey çizgili alıntı
-3. **Ayrıntılar** — numaralı sekmeler: 01 Eğitim (`#egitim`) · 02 Klinik stajlar (`#klinik`) · 03 Dil yeterliliği (`#diller`)
-4. **Büyük alıntı** (`#yaklasim`) — yaklaşım cümlesi
-5. **İletişim** — koyu bölüm: e-posta, LinkedIn, konum; yasal not
+**Ana sayfa (`docs/index.html`, 0.6.0 düzeni — Lava tarzı; İngilizcesi `docs/en/` aynı)**
+1. **Giriş** — solda "Elif / Sayın", tek cümle, LinkedIn + İletişim; sağda kenara taşan portre; yüzen bilgi kartı
+2. **Hakkımda** — kontur kart ("5 yıl") + dikey çizgili metin
+3. **Yaklaşım** (`#yaklasim`) — açık zeminde kontur kart üzerinde büyük cümle
+4. **Ayrıntılar** — 01 Eğitim (`#egitim`) · 02 Klinik stajlar (`#klinik`) · 03 Dil yeterliliği (`#diller`)
+5. **İletişim** — e-posta, LinkedIn, konum, yasal not, dev altın ad yazısı
 6. **Altbilgi** — © 2026 Elif Sayın · Site yapımı: Süreyya Sayın · sürüm
 
 *Gizli (hazır bekleyen) bölümler:* Akademik Çalışmalar · Kongre/Kurs/Sertifikalar · Gönüllülük · Ödüller/Burslar
