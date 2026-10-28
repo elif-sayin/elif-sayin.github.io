@@ -81,7 +81,7 @@ Türkçe (İngilizce sayfada "Notes are available in Turkish" bağlantısı); is
 - [ ] 3 not taslağı → Elif'in bilimsel kontrolü → yayın
 
 ### Faz 5 — İngilizce sürüm
-- [ ] `docs/en/index.html`, dil değiştirme bağlantısı, `hreflang`
+- [x] `docs/en/index.html`, dil değiştirme bağlantısı, `hreflang`
 
 ### Faz 6 — SEO ve paylaşım
 - [x] `og.jpg` (1200×630), meta açıklamalar, JSON-LD `Person` (Faz 2'de öne alındı)

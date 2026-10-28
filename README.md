@@ -49,6 +49,6 @@ python3 tools/gorsel.py belgeler-ham/foto.jpg docs/img/ad.webp --kare --boyut 64
 - [x] Kontrol ve görsel araçları
 - [x] Ana sayfa (Türkçe)
 - [ ] Ağız ve Diş Sağlığı Notları (3 not, Elif'in bilimsel onayıyla)
-- [ ] İngilizce sürüm
+- [x] İngilizce sürüm
 - [ ] SEO ve paylaşım görseli
-- [ ] GitHub Pages'te yayın (v1.0.0)
+- [x] GitHub Pages'te yayın

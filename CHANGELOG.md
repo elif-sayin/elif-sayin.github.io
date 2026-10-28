@@ -2,6 +2,11 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.4.0] - 2026-10-28
+### Eklendi
+- Sitenin İngilizce sürümü (`/en/`): bütün bölümler uluslararası akademik özgeçmiş diliyle yazıldı.
+- Üst barda TR / EN dil değiştirme düğmesi; arama motorları için dil eşleştirmesi ve site haritası.
+
 ## [0.3.0] - 2026-10-28
 ### Değişti
 - Yeni renk kartelası: altın (#CFAA7F), mürdüm lacivert (#413D57), açık gri (#EFEFF4, #D9D8DD).

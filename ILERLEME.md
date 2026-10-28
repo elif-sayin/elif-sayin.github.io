@@ -3,7 +3,7 @@
 Son güncelleme: 2026-10-28
 
 ## Aktif plan
-`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.3.0**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
+`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.4.0**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
 
 ## Tamamlananlar
 - 2026-10-28: `CLAUDE.md`, `IS_PLANI.md` hazırlandı; Elif'in bilgileri işlendi.
@@ -13,6 +13,7 @@ Son güncelleme: 2026-10-28
   Portre logosuz kırpıldı (önlük cebindeki "DENTAL CLINIC" logosu çıkarıldı — m.7).
   `og.jpg` ve JSON-LD Faz 6'dan öne alındı.
 - 2026-10-28: Elif'in isteğiyle git geçmişi tek kayda indirildi (`55c1744`) ve GitHub'a zorla gönderildi; eski kayıtlar (ham not alıntıları) silindi.
+- 2026-10-28: 0.4.0 — İngilizce sürüm `docs/en/` + TR/EN düğmesi, hreflang, site haritası (Faz 5 bitti).
 - 2026-10-28: 0.3.0 — Elif'in renk kartelasıyla yeni tasarım (CLAUDE.md m.8.2).
 - 2026-10-28: 0.2.2 — İngilizce puan yerine düzey (B2) olarak yazıldı.
 - 2026-10-28: 0.2.1 — hayvan cümlesi ve "tur" ifadeleri kaldırıldı (Elif'in isteği).
@@ -27,7 +28,6 @@ Faz 4 sırada (notlar) — Elif'in not konusu onayı bekleniyor.
 
 ## Sırada
 1. Faz 4 — Ağız ve Diş Sağlığı Notları (3 not, Elif'in bilimsel onayıyla)
-2. Faz 5 — İngilizce sürüm (`docs/en/`)
 3. Faz 6 — kalanlar: Lighthouse, paylaşım önizleme kontrolü
 4. Faz 7 — canlı sitede Lighthouse ve paylaşım önizlemesi kontrolü
 
