@@ -231,9 +231,10 @@ yoktur.
 
 1. Önce mobil (390 px), taban yazı ≥ 17 px, büyük dokunma alanı,
    WCAG AA kontrast, açık/koyu tema (sistem tercihi + düğme).
-2. Tema: sade, temiz, güven veren; klinik soğukluğu yerine sıcak bir
-   dokunuş (ör. beyaz/kırık beyaz zemin + nane/teal ve yumuşak
-   lacivert vurgular). Diş/ağız ikonografisi abartılmaz; karikatür
+2. Tema (kullanıcı kararı 2026-10-28, kartela): altın #CFAA7F · mürdüm
+   lacivert #413D57 · açık zemin #EFEFF4 · gri #D9D8DD. #CFAA7F açık
+   zeminde METİN olarak kullanılmaz (1.9:1) — süs/zemin; altın metin
+   için #7E5F36. İlham: zarif serif + italik vurgu, altın çizgili etiket. Diş/ağız ikonografisi abartılmaz; karikatür
    diş, stok "gülümseme" görseli KULLANILMAZ. Renkler `:root` token.
 3. Lighthouse mobil hedef: performans/erişilebilirlik/SEO ≥ 95.
 4. OG/Twitter kartı + `og.jpg`; WhatsApp/LinkedIn'de paylaşılınca

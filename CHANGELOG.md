@@ -2,6 +2,12 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.3.0] - 2026-10-28
+### Değişti
+- Yeni renk kartelası: altın (#CFAA7F), mürdüm lacivert (#413D57), açık gri (#EFEFF4, #D9D8DD).
+- Daha zarif bir görünüm: italik vurgulu serif başlıklar, altın çizgili bölüm etiketleri, kemer biçimli portre çerçevesi, koyu altbilgi.
+- Koyu tema yeni renklere göre yenilendi; paylaşım görseli ve site simgesi güncellendi.
+
 ## [0.2.2] - 2026-10-28
 ### Değişti
 - İngilizce bilgisi puan yerine düzey olarak yazıldı: İleri orta düzey (B2).
