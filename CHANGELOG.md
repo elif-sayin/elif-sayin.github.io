@@ -2,6 +2,10 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.4.1] - 2026-10-28
+### Kaldırıldı
+- Eğitim bölümünden ortaöğretim (lise) bilgisi kaldırıldı (Türkçe ve İngilizce).
+
 ## [0.4.0] - 2026-10-28
 ### Eklendi
 - Sitenin İngilizce sürümü (`/en/`): bütün bölümler uluslararası akademik özgeçmiş diliyle yazıldı.

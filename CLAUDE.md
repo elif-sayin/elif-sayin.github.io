@@ -280,7 +280,8 @@ olmayan bilgi siteye yazılmaz. Açık kalan konular `ILERLEME.md` →
 * Klinik stajlar: tüm anabilim dalı kliniklerinde staj yapıldı, son
   sınıfta ikinci kez dönülüyor (2026-10). Sitede "tur tamamladım /
   sürdürüyorum" kalıbı ve eğitim-öğretim yılı yazılmaz (kullanıcı kararı). Hasta/vaka ayrıntısı yazılmaz (m.6).
-* Lise: Tekirdağ Anadolu Lisesi.
+* Lise: Tekirdağ Anadolu Lisesi — sitede YER ALMAZ (kullanıcı kararı
+  2026-10-28).
 * Erasmus / değişim: YOK (sitede bu başlık açılmaz).
 * Yabancı dil: İngilizce — TıpDil 70 puan (2026). Sitede PUAN YAZILMAZ
   (kullanıcı kararı 2026-10-28); düzey olarak "İleri orta düzey (B2)" yazılır.

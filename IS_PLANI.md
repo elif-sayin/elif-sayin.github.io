@@ -28,7 +28,7 @@ Hedef: `https://elif-sayin.github.io` adresinde, mobil öncelikli, Türkçe +
 **Ana sayfa (`docs/index.html`)**
 1. **Giriş** — Elif Sayın · Diş Hekimliği Öğrencisi · Trakya Üniversitesi · Edirne; kısa tek cümle; LinkedIn ve e-posta düğmeleri
 2. **Hakkımda** — 2–3 paragraf (birlikte yazılacak), portre
-3. **Eğitim** — zaman çizelgesi: Trakya Üni. Diş Hekimliği Fak. (2022 – Haziran 2027, beklenen) · Tekirdağ Anadolu Lisesi
+3. **Eğitim** — zaman çizelgesi: Trakya Üni. Diş Hekimliği Fak. (2022 – Haziran 2027, beklenen)
 4. **Klinik Stajlar** — 8 anabilim dalı etiket listesi; 1. tur tamamlandı, 2. tur sürüyor (hasta bilgisi yok)
 5. ~~İlgi Alanlarım~~ — Elif kararıyla kaldırıldı (0.1.2)
 6. **Dil Yeterliliği** — Türkçe (ana dil) · İngilizce — ÖSYM TıpDil 70 (2026)
