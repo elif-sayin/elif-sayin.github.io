@@ -60,7 +60,14 @@ Kontrol geçtiyse (Elif onayıyla):
 git push
 ```
 
-## 5. İleride gerçek alan adı (ör. elifsayin.com)
+## 5. Google Search Console
+
+Doğrulama dosyası `docs/googlef5187027f5eb942f.html` (2026-10-29). Google'ın
+verdiği dosya **deponun köküne değil `docs/` klasörüne** konmalıdır; site yalnızca
+`docs/`'tan yayınlanır. Dosya silinirse doğrulama düşer. Doğrulandıktan sonra
+Search Console → Site haritaları → `sitemap.xml` gönderilir.
+
+## 6. İleride gerçek alan adı (ör. elifsayin.com)
 
 1. Alan adını bir kayıt firmasından al.
 2. `docs/CNAME` dosyasına yalnızca alan adını yaz (`elifsayin.com`).

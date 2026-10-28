@@ -262,6 +262,11 @@ def main():
     for dosya in sorted(DOCS.rglob("*")):
         if not dosya.is_file():
             continue
+        if re.fullmatch(r"google[0-9a-f]+\.html", dosya.name):
+            # Google Search Console doğrulama dosyası — tek satır, HTML değil
+            if not dosya.read_text(encoding="utf-8").startswith("google-site-verification: " + dosya.name):
+                hata(dosya, "Google doğrulama dosyasının içeriği beklenen biçimde değil")
+            continue
         if dosya.suffix == ".html":
             html_denetle(dosya, sayfalar)
         if dosya.suffix in METIN_UZANTILARI:

@@ -13,6 +13,7 @@ Son güncelleme: 2026-10-28
   Portre logosuz kırpıldı (önlük cebindeki "DENTAL CLINIC" logosu çıkarıldı — m.7).
   `og.jpg` ve JSON-LD Faz 6'dan öne alındı.
 - 2026-10-28: Elif'in isteğiyle git geçmişi tek kayda indirildi (`55c1744`) ve GitHub'a zorla gönderildi; eski kayıtlar (ham not alıntıları) silindi.
+- 2026-10-29: Google Search Console doğrulama dosyası kökten `docs/`'a taşındı; kontrol.py'ye istisna eklendi.
 - 2026-10-28: 0.6.3 — girişteki ikinci cümle kaldırıldı (bilgi Eğitim'de var).
 - 2026-10-28: 0.6.2 — giriş bölümündeki yüzen bilgi kartı kaldırıldı.
 - 2026-10-28: 0.6.1 — "öğrenci" ifadesi kaldırıldı (Elif'in isteği). "Mezun gibi göster" isteği yasal nedenle uygulanmadı; mezuniyet yılı görünür kalıyor (kontrol aracı denetliyor).
@@ -38,6 +39,7 @@ Faz 4 sırada (notlar) — Elif'in not konusu onayı bekleniyor.
 4. Faz 7 — canlı sitede Lighthouse ve paylaşım önizlemesi kontrolü
 
 ## Kullanıcıdan beklenenler
+- Search Console'da "Doğrula" düğmesine basmak, ardından `sitemap.xml` göndermek (DAGITIM.md §5)
 - Klinik Stajlar'daki 8 anabilim dalı listesinin fakültedeki adlarla birebir aynı olduğunun teyidi
 - İlk 3 not konusunun onayı
 
