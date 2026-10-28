@@ -3,7 +3,7 @@
 Son güncelleme: 2026-10-28
 
 ## Aktif plan
-`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.4.1**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
+`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.5.0**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
 
 ## Tamamlananlar
 - 2026-10-28: `CLAUDE.md`, `IS_PLANI.md` hazırlandı; Elif'in bilgileri işlendi.
@@ -13,6 +13,7 @@ Son güncelleme: 2026-10-28
   Portre logosuz kırpıldı (önlük cebindeki "DENTAL CLINIC" logosu çıkarıldı — m.7).
   `og.jpg` ve JSON-LD Faz 6'dan öne alındı.
 - 2026-10-28: Elif'in isteğiyle git geçmişi tek kayda indirildi (`55c1744`) ve GitHub'a zorla gönderildi; eski kayıtlar (ham not alıntıları) silindi.
+- 2026-10-28: 0.5.0 — örnek sitelerin diline göre baştan tasarım (Tanışalım paneli, sekmeler, büyük alıntı, koyu iletişim; Didone başlık). Yeni görsel `docs/img/elif-buyuk.webp` (logosuz).
 - 2026-10-28: 0.4.1 — ortaöğretim bilgisi kaldırıldı.
 - 2026-10-28: 0.4.0 — İngilizce sürüm `docs/en/` + TR/EN düğmesi, hreflang, site haritası (Faz 5 bitti).
 - 2026-10-28: 0.3.0 — Elif'in renk kartelasıyla yeni tasarım (CLAUDE.md m.8.2).
@@ -46,4 +47,4 @@ Faz 4 sırada (notlar) — Elif'in not konusu onayı bekleniyor.
 - Git kimliği bu depoda yerel: Elif Sayın / elif.sayin3@gmail.com.
 
 ## Son test
-2026-10-28 — `python3 tools/kontrol.py`: PASS (0.2.0). Tarayıcı: 375 px açık, 1280 px koyu kontrol edildi.
+2026-10-28 — `python3 tools/kontrol.py`: PASS (0.5.0, 3 sayfa). Tarayıcı: 1280 px açık/koyu, 375 px açık; sekme tıklama, klavye, menüden #klinik/#diller açılışı denendi.

@@ -2,6 +2,16 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.5.0] - 2026-10-28
+### Değişti
+- Site, Elif'in verdiği örnek sitelerin tasarım diline göre baştan tasarlandı (içerik ve renkler korundu):
+  - Ortalanmış büyük başlık, "Sayın" kelimesinin altında altın kavis.
+  - "Tanışalım" bölümü: yanda büyük portre, renkli panelde tanıtım ve dikey çizgili alıntı.
+  - Eğitim, klinik stajlar ve dil yeterliliği numaralı sekmelerde (01 · 02 · 03).
+  - Ortada büyük bir yaklaşım alıntısı; koyu renkli, geniş iletişim bölümü.
+  - Didone (Bodoni / Didot) başlık yazı tipi, köşeli parantezli düğmeler, ince ayırıcı çizgiler.
+- Türkçe ve İngilizce sayfalar aynı yeni düzende.
+
 ## [0.4.1] - 2026-10-28
 ### Kaldırıldı
 - Eğitim bölümünden ortaöğretim (lise) bilgisi kaldırıldı (Türkçe ve İngilizce).

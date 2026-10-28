@@ -25,16 +25,13 @@ Hedef: `https://elif-sayin.github.io` adresinde, mobil öncelikli, Türkçe +
 
 ## Site haritası (v1.0.0)
 
-**Ana sayfa (`docs/index.html`)**
-1. **Giriş** — Elif Sayın · Diş Hekimliği Öğrencisi · Trakya Üniversitesi · Edirne; kısa tek cümle; LinkedIn ve e-posta düğmeleri
-2. **Hakkımda** — 2–3 paragraf (birlikte yazılacak), portre
-3. **Eğitim** — zaman çizelgesi: Trakya Üni. Diş Hekimliği Fak. (2022 – Haziran 2027, beklenen)
-4. **Klinik Stajlar** — 8 anabilim dalı etiket listesi; 1. tur tamamlandı, 2. tur sürüyor (hasta bilgisi yok)
-5. ~~İlgi Alanlarım~~ — Elif kararıyla kaldırıldı (0.1.2)
-6. **Dil Yeterliliği** — Türkçe (ana dil) · İngilizce — ÖSYM TıpDil 70 (2026)
-7. **Ağız ve Diş Sağlığı Notları** — not kartları (başlık, kısa özet, tarih)
-8. **İletişim** — e-posta, LinkedIn; konum Edirne (Instagram yok — Elif kararı)
-9. **Altbilgi** — © 2026 Elif Sayın · Site yapımı: Süreyya Sayın · sürüm
+**Ana sayfa (`docs/index.html`, 0.5.0 düzeni — İngilizcesi `docs/en/` aynı)**
+1. **Giriş** — ortalanmış: rozet, "Elif *Sayın*" + altın kavis, tek cümle, [LinkedIn] [ İletişim ], Edirne
+2. **Tanışalım** (`#hakkimda`) — büyük portre + mürdüm panel: tanıtım, dikey çizgili alıntı
+3. **Ayrıntılar** — numaralı sekmeler: 01 Eğitim (`#egitim`) · 02 Klinik stajlar (`#klinik`) · 03 Dil yeterliliği (`#diller`)
+4. **Büyük alıntı** (`#yaklasim`) — yaklaşım cümlesi
+5. **İletişim** — koyu bölüm: e-posta, LinkedIn, konum; yasal not
+6. **Altbilgi** — © 2026 Elif Sayın · Site yapımı: Süreyya Sayın · sürüm
 
 *Gizli (hazır bekleyen) bölümler:* Akademik Çalışmalar · Kongre/Kurs/Sertifikalar · Gönüllülük · Ödüller/Burslar
 
