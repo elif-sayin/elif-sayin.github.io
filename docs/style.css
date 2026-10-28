@@ -168,22 +168,12 @@ p { margin: 0 0 1em; }
   content: ""; position: absolute; inset: 0;
   background: linear-gradient(90deg, var(--bg) 0%, transparent 18%);
 }
-.yuzen-kart {
-  position: absolute; left: 50%; top: 58%; transform: translate(-42%, -50%); z-index: 2;
-  width: min(320px, 30vw); padding: 26px 28px; border-radius: 18px;
-  background: var(--kart) url("img/kontur.svg") center / cover; color: #efeff4;
-  box-shadow: 0 30px 60px rgba(0, 0, 0, .35);
-}
-.yuzen-kart small { display: block; color: var(--gold); font-size: .7rem; font-weight: 600; letter-spacing: .18em; text-transform: uppercase; margin-bottom: 10px; }
-.yuzen-kart strong { display: block; font-family: var(--geo); font-weight: 500; font-size: 1.35rem; line-height: 1.2; margin-bottom: 8px; color: #efeff4; }
-.yuzen-kart span { color: #cfcdda; font-size: .92rem; }
 
 @media (max-width: 960px) {
   .giris { grid-template-columns: 1fr; min-height: 0; }
   .giris-foto { order: -2; height: 66vh; max-height: 600px; }
   .giris-foto::after { background: linear-gradient(0deg, var(--bg) 0%, transparent 30%); }
   .giris-metin { padding: 8px 24px 48px; }
-  .yuzen-kart { order: -1; position: relative; left: auto; top: auto; transform: none; width: auto; margin: -72px 24px 28px; padding: 20px 22px; }
 }
 
 /* Bölümler */

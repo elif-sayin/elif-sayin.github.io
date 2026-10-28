@@ -26,7 +26,7 @@ Hedef: `https://elif-sayin.github.io` adresinde, mobil öncelikli, Türkçe +
 ## Site haritası (v1.0.0)
 
 **Ana sayfa (`docs/index.html`, 0.6.0 düzeni — Lava tarzı; İngilizcesi `docs/en/` aynı)**
-1. **Giriş** — solda "Elif / Sayın", tek cümle, LinkedIn + İletişim; sağda kenara taşan portre; yüzen bilgi kartı
+1. **Giriş** — solda "Elif / Sayın", tek cümle, LinkedIn + İletişim; sağda kenara taşan portre
 2. **Hakkımda** — kontur kart ("5 yıl") + dikey çizgili metin
 3. **Yaklaşım** (`#yaklasim`) — açık zeminde kontur kart üzerinde büyük cümle
 4. **Ayrıntılar** — 01 Eğitim (`#egitim`) · 02 Klinik stajlar (`#klinik`) · 03 Dil yeterliliği (`#diller`)

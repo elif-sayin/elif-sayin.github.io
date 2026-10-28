@@ -240,7 +240,7 @@ yoktur.
    zeminde METİN olarak kullanılmaz (1.9:1) — süs/zemin; altın metin
    için #7E5F36. Tasarım dili (kullanıcı kararı 2026-10-28): Elif'in
    seçtiği örnek lavadental.lv — koyu sinematik zemin (#191723), Futura
-   başlık, bölünmüş giriş + kenara taşan portre + yüzen bilgi kartı,
+   başlık, bölünmüş giriş + kenara taşan portre (yüzen kart YOK — kullanıcı kararı),
    özgün kontur çizgili kartlar (`docs/img/kontur.svg`), açık zeminde
    büyük cümle, numaralı satırlar, dev altın ad yazısı. Örnekten metin,
    görsel, logo ALINMAZ; önce/sonra vaka görseli reklam yasağı nedeniyle

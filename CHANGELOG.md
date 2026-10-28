@@ -2,6 +2,10 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.6.2] - 2026-10-28
+### Kaldırıldı
+- Giriş bölümünde fotoğrafın üstündeki bilgi kartı (Edirne · Trakya Üniversitesi · Son sınıf) kaldırıldı.
+
 ## [0.6.1] - 2026-10-28
 ### Değişti
 - "Öğrenci" ifadesi sitenin hiçbir yerinde kullanılmıyor; yerine "Diş Hekimliği · Trakya Üniversitesi" ve "son sınıf · mezuniyet Haziran 2027" yazıyor (Türkçe ve İngilizce).
