@@ -276,8 +276,9 @@ olmayan bilgi siteye yazılmaz. Açık kalan konular `ILERLEME.md` →
 
 * Eğitim: Trakya Üniversitesi Diş Hekimliği Fakültesi, 2022 – 2027
   (beklenen mezuniyet Haziran 2027).
-* Klinik stajlar: tüm anabilim dalı kliniklerinde 1. tur tamamlandı,
-  2. tur sürüyor (2026-10). Hasta/vaka ayrıntısı yazılmaz (m.6).
+* Klinik stajlar: tüm anabilim dalı kliniklerinde staj yapıldı, son
+  sınıfta ikinci kez dönülüyor (2026-10). Sitede "tur tamamladım /
+  sürdürüyorum" kalıbı ve eğitim-öğretim yılı yazılmaz (kullanıcı kararı). Hasta/vaka ayrıntısı yazılmaz (m.6).
 * Lise: Tekirdağ Anadolu Lisesi.
 * Erasmus / değişim: YOK (sitede bu başlık açılmaz).
 * Yabancı dil: İngilizce — TıpDil 70 puan (2026).
@@ -298,7 +299,8 @@ olmayan bilgi siteye yazılmaz. Açık kalan konular `ILERLEME.md` →
 * Konum: Edirne (il düzeyi; kullanıcı düzeltmesi 2026-10-28).
 * İngilizce sürüm: AÇIK (`docs/en/`).
 * Ağız ve Diş Sağlığı Notları: AÇIK (kurallar m.7).
-* Hobiler (Hakkımda'da): hayvanlar, spor / vücut geliştirme.
+* Hobiler (Hakkımda'da): spor / vücut geliştirme. Hayvanlar sitede
+  YAZILMAZ (kullanıcı kararı 2026-10-28).
 * Portre: `belgeler-ham/IMG_1166.JPG` (896×1195, GPS yok) →
   `docs/img/elif.webp` olarak kırpılıp küçültülecek.
 * Yönetim paneli: YOK (kullanıcı kararı 2026-10-28). Pages CMS / Decap

@@ -2,6 +2,11 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.2.1] - 2026-10-28
+### Değişti
+- Klinik staj anlatımı sadeleştirildi; "birinci tur / ikinci tur" ifadeleri kaldırıldı.
+- Hakkımda bölümünden hayvanlarla ilgili cümle çıkarıldı.
+
 ## [0.2.0] - 2026-10-28
 ### Değişti
 - Sitedeki bütün metinler akademik portfolyo diliyle yeniden yazıldı: giriş, Hakkımda, Eğitim, Klinik Stajlar, Dil Yeterliliği ve İletişim.

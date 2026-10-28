@@ -3,7 +3,7 @@
 Son güncelleme: 2026-10-28
 
 ## Aktif plan
-`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.2.0**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
+`IS_PLANI.md` — v1.0.0 ilk yayın. Site **0.2.1**, YAYINDA: https://elif-sayin.github.io (depo `elif-sayin/elif-sayin.github.io`, Pages: main /docs).
 
 ## Tamamlananlar
 - 2026-10-28: `CLAUDE.md`, `IS_PLANI.md` hazırlandı; Elif'in bilgileri işlendi.
@@ -13,6 +13,7 @@ Son güncelleme: 2026-10-28
   Portre logosuz kırpıldı (önlük cebindeki "DENTAL CLINIC" logosu çıkarıldı — m.7).
   `og.jpg` ve JSON-LD Faz 6'dan öne alındı.
 - 2026-10-28: Elif'in isteğiyle git geçmişi tek kayda indirildi (`55c1744`) ve GitHub'a zorla gönderildi; eski kayıtlar (ham not alıntıları) silindi.
+- 2026-10-28: 0.2.1 — hayvan cümlesi ve "tur" ifadeleri kaldırıldı (Elif'in isteği).
 - 2026-10-28: 0.2.0 — tüm metinler uzman gözüyle yeniden yazıldı (Elif'in isteği; kural CLAUDE.md m.3.6). Geçmiş yeniden tek kayda indirildi.
 - 2026-10-28: 0.1.2 — "Uzmanlık için düşündüğüm alanlar" bölümü Elif'in isteğiyle kaldırıldı.
 - 2026-10-28: gh 2.103.3 `~/.local/bin`'e kuruldu (SHA256 doğrulandı), `elif-sayin` olarak giriş yapıldı.
