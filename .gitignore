@@ -1,0 +1,9 @@
+# Hassas / ham dosyalar (CLAUDE.md m.6) — ASLA git'e girmez
+belgeler-ham/
+
+# Sistem ve geçici dosyalar
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+tmp/
