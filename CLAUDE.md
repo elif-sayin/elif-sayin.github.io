@@ -187,7 +187,7 @@ yoktur.
   "Dr." YAZILMAZ. Kullanıcı kararı 2026-10-28: "öğrenci" kelimesi
   sitede kullanılmaz; yerine "Diş Hekimliği · Trakya Üniversitesi" ve
   "son sınıf · mezuniyet Haziran 2027" yazılır. Mezun izlenimi VERİLMEZ:
-  mezuniyet yılı giriş bölümünde ve paylaşım görselinde görünür kalır
+  mezuniyet yılı sayfada (Eğitim bölümü) ve paylaşım görselinde görünür kalır
   (`kontrol.py` "2027" yoksa FAIL verir). Kullanıcı "mezun olmuş gibi
   hazırla" istediğinde reddedildi (1219 s. Kanun — yetkisiz unvan);
   unvan değişikliği yalnızca mezuniyetten sonra yapılır (bkz. m.7-B).

@@ -2,6 +2,10 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.6.3] - 2026-10-28
+### Kaldırıldı
+- Giriş bölümündeki ikinci cümle (fakülte ve mezuniyet bilgisi) kaldırıldı; bu bilgi Eğitim bölümünde zaten yer alıyor.
+
 ## [0.6.2] - 2026-10-28
 ### Kaldırıldı
 - Giriş bölümünde fotoğrafın üstündeki bilgi kartı (Edirne · Trakya Üniversitesi · Son sınıf) kaldırıldı.
