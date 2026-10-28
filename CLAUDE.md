@@ -281,7 +281,8 @@ olmayan bilgi siteye yazılmaz. Açık kalan konular `ILERLEME.md` →
   sürdürüyorum" kalıbı ve eğitim-öğretim yılı yazılmaz (kullanıcı kararı). Hasta/vaka ayrıntısı yazılmaz (m.6).
 * Lise: Tekirdağ Anadolu Lisesi.
 * Erasmus / değişim: YOK (sitede bu başlık açılmaz).
-* Yabancı dil: İngilizce — TıpDil 70 puan (2026).
+* Yabancı dil: İngilizce — TıpDil 70 puan (2026). Sitede PUAN YAZILMAZ
+  (kullanıcı kararı 2026-10-28); düzey olarak "İleri orta düzey (B2)" yazılır.
 * İlgi alanları (uzmanlık düşünceleri): Ortodonti, Ağız, Diş ve Çene
   Cerrahisi, Protetik Diş Tedavisi, Endodonti. Kullanıcı kararı
   2026-10-28: bu bölüm sitede YER ALMAZ (kaldırıldı, 0.1.2). Geri

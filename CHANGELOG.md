@@ -2,6 +2,10 @@
 
 Biçim: `## [X.Y.Z] - YYYY-MM-DD`. Sade Türkçe ile yazılır.
 
+## [0.2.2] - 2026-10-28
+### Değişti
+- İngilizce bilgisi puan yerine düzey olarak yazıldı: İleri orta düzey (B2).
+
 ## [0.2.1] - 2026-10-28
 ### Değişti
 - Klinik staj anlatımı sadeleştirildi; "birinci tur / ikinci tur" ifadeleri kaldırıldı.
